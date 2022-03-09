@@ -18,3 +18,6 @@ https://vishalpj.xyz/pastebin
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rhu46qmfb3bx9gi8y5mnulivd&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishyvishal14&show_icons=true&theme=radical)
