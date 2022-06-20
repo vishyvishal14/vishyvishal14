@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Vishal. I do ava and just like open source projects
+I am Vishal. I do java and just like open source projects
 
 - 🌱 I’m currently studying.
 - 💬 Ask me about minecraft servers , java , support for mc-dev , etc.
