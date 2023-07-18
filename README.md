@@ -5,10 +5,9 @@ I am Vishal. I do java and just like open source projects
 
 - 🌱 I’m currently studying.
 - 💬 Ask me about minecraft servers , java , support for mc-dev , etc.
-- 📫 Reach me via Discord: vishyvishal#5240 
+- 📫 Reach me via Discord: vishalpj
+- https://vishy.codes
 
-
-Personal Pastebin: https://vishalpj.xyz/pastebin
 
 
 Spotify Music:
