@@ -1,14 +1,10 @@
 ### Hi there 👋
 
+I code spigot.
+Student
+Portfolio: https://vishy.codes
 
-I am Vishal. I do java and just like open source projects
-
-- 🌱 I’m currently studying.
-- 💬 Ask me about minecraft servers , java , support for mc-dev , etc.
-- 📫 Reach me via Discord: vishalpj
-- https://vishy.codes
-
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/563354238156275712)](https://discord.com/users/563354238156275712)
 
 Spotify Music:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rhu46qmfb3bx9gi8y5mnulivd&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
