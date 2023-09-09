@@ -17,3 +17,9 @@ Java Developer and Arch Linux user
 ![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalpj14&show_icons=true&theme=algolia)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpj14&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalpj14&show_icons=true&locale=en&layout=compact" alt="vishalpj14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalpj14&show_icons=true&locale=en" alt="vishalpj14" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpj14&" alt="vishalpj14" /></p>
+
