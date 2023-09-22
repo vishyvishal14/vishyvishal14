@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">A Java developer!</h3>
+<!-- <h3 align="center">A Java developer!</h3> -->
 
 - # 💫 About Me:
 Java Developer and Arch Linux user
