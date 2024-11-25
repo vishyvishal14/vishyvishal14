@@ -9,9 +9,6 @@ High school student | Java Developer | Game Designer | Linux Systems Administrat
 # 💻 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/563354238156275712)](https://discord.com/users/563354238156275712)
 
-# 🎵 Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rhu46qmfb3bx9gi8y5mnulivd&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 # GitHub Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishalpj14&show_icons=true&theme=algolia" alt="vishalpj14" /></p>
 
