@@ -9,8 +9,3 @@ High school student | Java Developer | Game Designer | Linux Systems Administrat
 # 💻 Discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/563354238156275712)](https://discord.com/users/563354238156275712)
 
-# GitHub Statistics:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vishalpj14&show_icons=true&theme=algolia" alt="vishalpj14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalpj14&" alt="vishalpj14" /></p>
-
